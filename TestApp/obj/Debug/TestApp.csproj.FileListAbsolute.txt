@@ -1,0 +1,10 @@
+D:\MyProjects\ConsoleApps\TestApp\TestApp\bin\Debug\TestApp.exe.config
+D:\MyProjects\ConsoleApps\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+D:\MyProjects\ConsoleApps\TestApp\TestApp\obj\Debug\TestApp.frmMain.resources
+D:\MyProjects\ConsoleApps\TestApp\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+D:\MyProjects\ConsoleApps\TestApp\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache
+D:\MyProjects\ConsoleApps\TestApp\TestApp\bin\Debug\TestApp.exe
+D:\MyProjects\ConsoleApps\TestApp\TestApp\bin\Debug\TestApp.pdb
+D:\MyProjects\ConsoleApps\TestApp\TestApp\bin\Debug\itextsharp.xml
+D:\MyProjects\ConsoleApps\TestApp\TestApp\obj\Debug\TestApp.exe
+D:\MyProjects\ConsoleApps\TestApp\TestApp\obj\Debug\TestApp.pdb
